@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
-  <h1>👋 Hi, I'm Ryan Cubas</h1>
-  <p>🎮 Game Programmer | 🧠 AI & Systems Developer | 💻 Unreal & Unity Enthusiast</p>
+  <h1> Hi, I'm Ryan Cubas</h1>
+  <p> Software Engineer |  AI & Systems Developer 
   <p>
     <a href="mailto:ryan.cubas.pastor1@gmail.com">Email</a> •
     <a href="https://www.linkedin.com/in/ryan-cubas/">LinkedIn</a> •
@@ -11,14 +11,14 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 I'm a **Game Programmer** and **AI systems developer** passionate about building intelligent, performant, and immersive gameplay experiences.  
 Currently pursuing a **B.S. in Game Programming (Minor in CS)** at the *University of Utah* (GPA 3.77).  
 
 I love working across the boundary between **gameplay, AI, and systems-level performance optimization** — from multithreaded pathfinding in Unreal to real-time anomaly detection pipelines in Python.
 
 ---
-### ⚙️ Technical Skills
+### Technical Skills
 
 **Languages:**  
 C++, C#, Python, Java, SQL, JavaScript  
@@ -34,7 +34,7 @@ Boost, spdlog, QuantLib, Valgrind, pandas, NumPy, SciPy, scikit-learn, TA-Lib
 
 ---
 
-### 📊 GitHub Stats & Badges
+### GitHub Stats & Badges
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancubas&show_icons=true&theme=tokyonight" />
@@ -43,7 +43,7 @@ Boost, spdlog, QuantLib, Valgrind, pandas, NumPy, SciPy, scikit-learn, TA-Lib
 
 ---
 
-### 🚀 What I’m Exploring
+### What I’m Exploring
 - **Real-Time AI & Behavior Trees** in Unreal and Unity  
 - **Memory Performance Optimization** for high-throughput systems  
 - **Procedural World Generation** and simulation  
