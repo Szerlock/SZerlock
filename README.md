@@ -38,7 +38,7 @@ Boost, spdlog, VTune, QuantLib, Valgrind, pandas, NumPy, SciPy, scikit-learn, TA
 
 ---
 
-### 💬 Fun Fact
+### Fun Fact
 When I’m not coding, you’ll find me studying **game AI architectures**, tinkering with **engine performance tools**, or designing **game mechanics inspired by simulation systems**.
 
 ---
