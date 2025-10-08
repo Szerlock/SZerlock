@@ -11,10 +11,7 @@
 ---
 
 ### About Me  
-I'm a **Game Programmer** and **AI systems developer** passionate about building intelligent, performant, and immersive gameplay experiences.  
-Currently pursuing a **B.S. in Game Programming (Minor in CS)** at the *University of Utah* (GPA 3.77).  
-
-I love working across the boundary between **gameplay, AI, and systems-level performance optimization** — from multithreaded pathfinding in Unreal to real-time anomaly detection pipelines in Python.
+I’m a Software Engineer with hands-on experience building high-performance systems, real-time data pipelines, and algorithmic solutions. I enjoy tackling complex problems with efficient, well-designed code whether it’s optimizing algorithms, building scalable applications, or designing intelligent systems.
 
 ---
 ### Technical Skills
