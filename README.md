@@ -5,7 +5,6 @@
   <p>
     <a href="mailto:ryan.cubas.pastor1@gmail.com">Email</a> •
     <a href="https://www.linkedin.com/in/ryan-cubas/">LinkedIn</a> •
-    <a href="https://github.com/ryancubas">GitHub</a>
   </p>
 </div>
 
@@ -30,7 +29,7 @@ React, ZeroMQ, Node.js, Blazor, JUnit, Spring Boot, Flask
 Visual Studio, Git, Kafka, Kubernetes, VTune, CMake, Docker, GCP, AWS, Azure, VS Code, PyCharm, IntelliJ  
 
 **Libraries:**  
-Boost, spdlog, QuantLib, Valgrind, pandas, NumPy, SciPy, scikit-learn, TA-Lib  
+Boost, spdlog, VTune, QuantLib, Valgrind, pandas, NumPy, SciPy, scikit-learn, TA-Lib  
 
 ---
 
