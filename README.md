@@ -34,15 +34,6 @@ Boost, spdlog, QuantLib, Valgrind, pandas, NumPy, SciPy, scikit-learn, TA-Lib
 
 ---
 
-### GitHub Stats & Badges
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryancubas&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryancubas&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### What I’m Exploring
 - **Real-Time AI & Behavior Trees** in Unreal and Unity  
 - **Memory Performance Optimization** for high-throughput systems  
