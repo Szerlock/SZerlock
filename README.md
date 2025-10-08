@@ -4,7 +4,7 @@
   <p> Software Engineer |  AI & Systems Developer 
   <p>
     <a href="mailto:ryan.cubas.pastor1@gmail.com">Email</a> •
-    <a href="https://www.linkedin.com/in/ryan-cubas/">LinkedIn</a> •
+    <a href="https://www.linkedin.com/in/ryan-cubas/">LinkedIn</a>
   </p>
 </div>
 
