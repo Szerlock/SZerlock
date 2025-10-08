@@ -18,57 +18,6 @@ Currently pursuing a **B.S. in Game Programming (Minor in CS)** at the *Universi
 I love working across the boundary between **gameplay, AI, and systems-level performance optimization** — from multithreaded pathfinding in Unreal to real-time anomaly detection pipelines in Python.
 
 ---
-
-### 🏗️ Experience
-
-**AI Programmer** — *QED Lab, University of Utah*  
-📆 *May 2025 – Present*  
-- Developed an **AI engine** that translates high-level human-readable actions into executable Unreal Engine behaviors.  
-- Designed a system to **parse sequences of actions into in-engine logic and animations**.  
-- Built a **dynamic event-driven pathfinding system** using a **multithreaded A\*** implementation.  
-- Optimized AI execution and parsing pipelines to enhance frame stability and responsiveness.  
-
----
-
-**Research Assistant (Project: DRAMHiT)** — *Mars Research Group*  
-📆 *Aug 2025 – Present*  
-- Conducted **performance profiling** on DRAMHiT to locate code and memory inefficiencies.  
-- Developed **custom experiments** for memory behavior analysis and optimization.  
-- Utilized **Intel VTune** and low-level system metrics for data-driven improvements.  
-
----
-
-**Research Developer (Kafka Real-Time Anomaly Detection)** — *University of Utah*  
-📆 *May 2025 – Aug 2025*  
-- Built a **real-time data streaming system** with **SciDX** and **Kafka** for high-throughput sensor analytics.  
-- Implemented **low-latency filtering and transformation pipelines** for predictive event detection.  
-- Designed a **scalable architecture** supporting real-time analytics and automated alerts.  
-
----
-
-**Head Programmer** — *Confidential Software Launch*  
-📆 *Mar 2025 – Jul 2025*  
-- Engineered **modular real-time combat systems** in Unity with **frame-perfect logic**.  
-- Built **enemy AI systems** with patrol pathing, state transitions, and team-attack coordination.  
-- Implemented **multi-agent combat AI** with dynamic state tracking for 5+ entities.  
-- Designed a **serialized save/load system** that restored full game state in under 200 ms, cutting crash recovery loss by 90%.
-
----
-
-### 🎮 Featured Project: KonKon  
-🧩 *Unity | C# | AI | Systems Design*  
-📆 *June 2025 – Present*  
-
-- Built a **dynamic seasonal island system** with procedural biomes, day/night cycles, and persistent seasonal progression.  
-- Designed **AI companion and spirit helper systems** using **utility behavior trees** and **real-time pathfinding**.  
-- Developed **resource gathering, crafting, cooking, and shrine puzzles**, integrated into a responsive daily loop.  
-- Implemented a **robust world persistence system**, saving player/village/NPC data with minimal overhead.  
-- Optimized event systems and AI performance for seamless gameplay.  
-
-🎥 *Demo Coming Soon — Built with ❤️ in Unity*  
-
----
-
 ### ⚙️ Technical Skills
 
 **Languages:**  
