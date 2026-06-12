@@ -4,6 +4,7 @@
   <p> Software Engineer |  AI & Systems Developer 
   <p>
     <a href="mailto:Angie.tocancipa.vasquez@gmail.com">Email</a> •
+    <a href="https://www.linkedin.com/in/angie-tocancipa-2101b5416/">LinkedIn</a>
   </p>
 </div>
 
