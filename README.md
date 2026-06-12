@@ -1,9 +1,9 @@
 <!-- Header -->
 <div align="center">
-  <h1> Hi, I'm Ryan Cubas</h1>
+  <h1> Hi, I'm TOCANCIPA VAQUEZ</h1>
   <p> Software Engineer |  AI & Systems Developer 
   <p>
-    <a href="mailto:ryan.cubas.pastor1@gmail.com">Email</a> •
+    <a href="mailto:Angie.tocancipa.vasquez@gmail.com">Email</a> •
     <a href="https://www.linkedin.com/in/ryan-cubas/">LinkedIn</a>
   </p>
 </div>
