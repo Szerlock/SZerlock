@@ -1,10 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <h1> Hi, I'm TOCANCIPA VAQUEZ</h1>
+  <h1> Hi, I'm Ryan Cubas</h1>
   <p> Software Engineer |  AI & Systems Developer 
   <p>
-    <a href="mailto:Angie.tocancipa.vasquez@gmail.com">Email</a> •
-    <a href="https://www.linkedin.com/in/angie-tocancipa-2101b5416/">LinkedIn</a>
+    <a href="mailto:ryan.cubas.pastor1@gmail.com">Email</a> •
+    <a href="https://www.linkedin.com/in/ryan-cubas/">LinkedIn</a> •
+    <a href="https://www.linkedin.com/in/ryan-cubas/">LinkedIn</a>
   </p>
 </div>
 
@@ -40,5 +41,3 @@ Boost, spdlog, VTune, QuantLib, Valgrind, pandas, NumPy, SciPy, scikit-learn, TA
 
 ### Fun Fact
 When I’m not coding, you’ll find me studying **game AI architectures**, tinkering with **engine performance tools**, or designing **game mechanics inspired by simulation systems**.
-
----
